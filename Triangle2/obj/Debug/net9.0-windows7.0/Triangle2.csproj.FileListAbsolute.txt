@@ -1,0 +1,14 @@
+C:\Users\samba\source\repos\Triangle2\Triangle2\bin\Debug\net9.0-windows7.0\Triangle2.exe
+C:\Users\samba\source\repos\Triangle2\Triangle2\bin\Debug\net9.0-windows7.0\Triangle2.deps.json
+C:\Users\samba\source\repos\Triangle2\Triangle2\bin\Debug\net9.0-windows7.0\Triangle2.runtimeconfig.json
+C:\Users\samba\source\repos\Triangle2\Triangle2\bin\Debug\net9.0-windows7.0\Triangle2.dll
+C:\Users\samba\source\repos\Triangle2\Triangle2\bin\Debug\net9.0-windows7.0\Triangle2.pdb
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.AssemblyInfoInputs.cache
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.AssemblyInfo.cs
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.csproj.CoreCompileInputs.cache
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.dll
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\refint\Triangle2.dll
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.pdb
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\Triangle2.genruntimeconfig.cache
+C:\Users\samba\source\repos\Triangle2\Triangle2\obj\Debug\net9.0-windows7.0\ref\Triangle2.dll

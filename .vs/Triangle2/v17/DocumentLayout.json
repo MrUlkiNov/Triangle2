@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samba\\source\\repos\\Triangle2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A079973-DEF8-4241-B0F0-B0E27E4620A0}|TriangleApp2.Tests\\TriangleApp2.Tests.csproj|c:\\users\\samba\\source\\repos\\triangle2\\triangleapp2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A079973-DEF8-4241-B0F0-B0E27E4620A0}|TriangleApp2.Tests\\TriangleApp2.Tests.csproj|solutionrelative:triangleapp2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7DF53-2EB7-44FC-8897-8A634B77EDAC}|Triangle2\\Triangle2.csproj|c:\\users\\samba\\source\\repos\\triangle2\\triangle2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE7DF53-2EB7-44FC-8897-8A634B77EDAC}|Triangle2\\Triangle2.csproj|solutionrelative:triangle2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A079973-DEF8-4241-B0F0-B0E27E4620A0}|TriangleApp2.Tests\\TriangleApp2.Tests.csproj|c:\\users\\samba\\source\\repos\\triangle2\\triangleapp2.tests\\triangleapp2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A079973-DEF8-4241-B0F0-B0E27E4620A0}|TriangleApp2.Tests\\TriangleApp2.Tests.csproj|solutionrelative:triangleapp2.tests\\triangleapp2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7DF53-2EB7-44FC-8897-8A634B77EDAC}|Triangle2\\Triangle2.csproj|c:\\users\\samba\\source\\repos\\triangle2\\triangle2\\triangle2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CE7DF53-2EB7-44FC-8897-8A634B77EDAC}|Triangle2\\Triangle2.csproj|solutionrelative:triangle2\\triangle2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriangleApp2.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Triangle2\\TriangleApp2.Tests\\TriangleApp2.Tests.csproj",
+              "RelativeDocumentMoniker": "TriangleApp2.Tests\\TriangleApp2.Tests.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Triangle2\\TriangleApp2.Tests\\TriangleApp2.Tests.csproj",
+              "RelativeToolTip": "TriangleApp2.Tests\\TriangleApp2.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T22:37:03.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Triangle2\\TriangleApp2.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TriangleApp2.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Triangle2\\TriangleApp2.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TriangleApp2.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:37:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle2.csproj",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Triangle2\\Triangle2\\Triangle2.csproj",
+              "RelativeDocumentMoniker": "Triangle2\\Triangle2.csproj",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Triangle2\\Triangle2\\Triangle2.csproj",
+              "RelativeToolTip": "Triangle2\\Triangle2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T22:36:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samba\\source\\repos\\Triangle2\\Triangle2\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle2\\Program.cs",
+              "ToolTip": "C:\\Users\\samba\\source\\repos\\Triangle2\\Triangle2\\Program.cs",
+              "RelativeToolTip": "Triangle2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:36:16.478Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
